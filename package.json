@@ -1,0 +1,25 @@
+{
+  "name": "ws-service-manager",
+  "version": "1.0.0",
+  "description": "project to run local web-socket server to run linux commands remotely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strider9450/ws-service-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strider9450/ws-service-manager/issues"
+  },
+  "homepage": "https://github.com/strider9450/ws-service-manager#readme",
+  "dependencies": {
+    "validator": "^13.11.0",
+    "winston": "^3.12.0",
+    "ws": "^8.16.0"
+  }
+}
